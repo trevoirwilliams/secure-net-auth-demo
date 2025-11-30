@@ -13,6 +13,7 @@
 
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using SecureAuthDemo.Web.Data;
 using SecureAuthDemo.Web.Authorization;
@@ -26,6 +27,9 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 
 builder.Services.AddDbContext<WebApplicationDbContext>(options =>
     options.UseSqlite(connectionString));
+
+// Bind SMTP configuration and register
+builder.Services.Configure<SmtpConfiguration>(builder.Configuration.GetSection("Smtp"));
 
 // Configure ASP.NET Core Identity with TOTP MFA support
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
@@ -47,6 +51,9 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 .AddEntityFrameworkStores<WebApplicationDbContext>()
 .AddDefaultTokenProviders()
 .AddDefaultUI(); // Adds the default Identity UI (login, register, manage, etc.)
+
+// Register EmailSender for Identity UI email flows (confirmation, password reset, etc.)
+builder.Services.AddTransient<IEmailSender, SecureAuthDemo.Web.Services.EmailSender>();
 
 // Custom authorization policy: require 2FA enabled
 builder.Services.AddAuthorization(options =>

@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\start\\SecureAuthDemo.Web\\Program.cs",
-              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\start\\SecureAuthDemo.Web\\Program.cs",
-              "RelativeToolTip": "SecureAuthDemo.Web\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:24:40.961Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
@@ -64,6 +51,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\start\\SecureAuthDemo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\start\\SecureAuthDemo.Web\\Program.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:24:40.961Z",
+              "EditorCaption": ""
             }
           ]
         },

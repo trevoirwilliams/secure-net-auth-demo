@@ -17,6 +17,7 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.Extensions.Logging;
 
 namespace SecureAuthDemo.Web.Areas.Identity.Pages.Account
@@ -133,6 +134,9 @@ namespace SecureAuthDemo.Web.Areas.Identity.Pages.Account
 
                     await _emailSender.SendEmailAsync(Input.Email, "Confirm your email",
                         $"Please confirm your account by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>.");
+
+                    // For development: expose callback link to a sample email template page when browsing
+                    ViewData["CallbackUrl"] = callbackUrl;
 
                     if (_userManager.Options.SignIn.RequireConfirmedAccount)
                     {

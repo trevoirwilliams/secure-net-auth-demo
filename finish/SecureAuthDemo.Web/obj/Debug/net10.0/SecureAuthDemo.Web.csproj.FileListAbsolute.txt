@@ -669,3 +669,8 @@ C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-de
 C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\bin\Debug\net10.0\Microsoft.Build.Locator.dll
 C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\obj\Debug\net10.0\compressed\0gcwk50bpo-{0}-qmx4bro2q6-qmx4bro2q6.gz
 C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\obj\Debug\net10.0\compressed\flmv9uybfh-{0}-at67e3d06i-at67e3d06i.gz
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\obj\Debug\net10.0\SecureAuthDemo.Web.sourcelink.json
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\bin\Debug\net10.0\MailKit.dll
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\bin\Debug\net10.0\MimeKit.dll

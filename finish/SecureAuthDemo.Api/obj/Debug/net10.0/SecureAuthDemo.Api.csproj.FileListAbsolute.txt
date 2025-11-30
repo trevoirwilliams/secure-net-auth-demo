@@ -342,3 +342,4 @@ C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-de
 C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Api\obj\Debug\net10.0\SecureAuthDemo.Api.genruntimeconfig.cache
 C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Api\obj\Debug\net10.0\ref\SecureAuthDemo.Api.dll
 C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Api\obj\Debug\net10.0\SecureAuthDemo.Api.sourcelink.json

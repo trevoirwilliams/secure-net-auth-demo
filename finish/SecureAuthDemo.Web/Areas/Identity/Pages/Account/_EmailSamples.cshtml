@@ -1,0 +1,20 @@
+@* Small sample email templates for development/demo. Identity pages use IEmailSender.SendEmailAsync(). *@
+@using Microsoft.AspNetCore.WebUtilities
+@{
+    var callbackUrl = ViewData["CallbackUrl"] as string ?? "<confirmation-link>";
+}
+
+<h2>Sample Emails</h2>
+
+<h3>Confirm your email</h3>
+<p>
+    Hi,<br />
+    Please confirm your account by <a href="@callbackUrl">clicking here</a>.
+</p>
+
+<h3>Reset your password</h3>
+<p>
+    You can reset your password by <a href="@callbackUrl">clicking here</a>.
+</p>
+
+<p>These are sample templates for development. Update or replace them with production-ready templates before deployment.</p>

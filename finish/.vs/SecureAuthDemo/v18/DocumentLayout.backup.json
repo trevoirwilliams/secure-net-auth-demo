@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.web\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.web\\secureauthdemo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\secureauthdemo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.web\\areas\\identity\\pages\\account\\_emailsamples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\areas\\identity\\pages\\account\\_emailsamples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.api\\login.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\login.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1B7F83B-1F8B-4A6F-A5E0-9E6B1D480001}|SecureAuthDemo.Api\\SecureAuthDemo.Api.csproj|solutionrelative:secureauthdemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.web\\configuration\\smtpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\configuration\\smtpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|c:\\users\\trevoir\\onedrive\\courses\\secure coding in c# and .net\\authentication-demo\\finish\\secureauthdemo.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2303AE70-15F0-47B6-AA5D-DD5FBAC84B33}|SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj|solutionrelative:secureauthdemo.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,16 +86,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:40:46.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_EmailSamples.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\_EmailSamples.cshtml",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\_EmailSamples.cshtml",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\_EmailSamples.cshtml",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Areas\\Identity\\Pages\\Account\\_EmailSamples.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T03:40:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecureAuthDemo.Web",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "RelativeToolTip": "SecureAuthDemo.Web\\SecureAuthDemo.Web.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T03:40:28.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\appsettings.Development.json",
+              "RelativeToolTip": "SecureAuthDemo.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T03:38:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmtpConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Configuration\\SmtpConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:38:38.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:38:33.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Web\\Program.cs",
+              "RelativeToolTip": "SecureAuthDemo.Web\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:38:21.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.http",
+              "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Api\\login.http",
+              "RelativeDocumentMoniker": "SecureAuthDemo.Api\\login.http",
+              "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Api\\login.http",
+              "RelativeToolTip": "SecureAuthDemo.Api\\login.http",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-28T19:28:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Api\\Program.cs",
               "RelativeDocumentMoniker": "SecureAuthDemo.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Trevoir\\OneDrive\\Courses\\Secure Coding in C# and .NET\\authentication-demo\\finish\\SecureAuthDemo.Api\\Program.cs",
               "RelativeToolTip": "SecureAuthDemo.Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:28:11.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T19:28:11.915Z"
             }
           ]
         },

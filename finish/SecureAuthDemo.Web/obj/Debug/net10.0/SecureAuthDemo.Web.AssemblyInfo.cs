@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureAuthDemo.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+941409f7316b45ba4434d97c820f895bc3c525f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b341a810faee6a10fa0364e79ea8d02664a606")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureAuthDemo.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureAuthDemo.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

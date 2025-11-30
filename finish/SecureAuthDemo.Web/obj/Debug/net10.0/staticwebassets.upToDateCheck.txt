@@ -1,0 +1,6 @@
+wwwroot\css\site.css
+wwwroot\lib\qrcode.js
+wwwroot\js\qr.js
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\wwwroot\css\site.css
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\wwwroot\lib\qrcode.js
+C:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\authentication-demo\finish\SecureAuthDemo.Web\wwwroot\js\qr.js

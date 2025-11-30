@@ -1,0 +1,26 @@
+@page
+@model SecureAuthDemo.Web.Admin.SensitiveSettingsModel
+@{
+    ViewData["Title"] = "Sensitive Settings";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="alert alert-success" role="alert">
+    <h4 class="alert-heading">🔒 MFA Protected Area</h4>
+    <p>You have successfully accessed this sensitive admin page. This page requires:</p>
+    <ul>
+        <li>Authentication (logged in)</li>
+        <li>Two-Factor Authentication (TOTP) enabled on your account</li>
+    </ul>
+    <hr>
+    <p class="mb-0">Only users with MFA enabled can view this content.</p>
+</div>
+
+<h3>Sensitive Configuration</h3>
+<p>This is where sensitive settings, admin controls, or high-privilege operations would be displayed.</p>
+
+<p>
+    <a asp-area="Identity" asp-page="/Account/Manage/TwoFactorAuthentication" class="btn btn-primary">Manage Two-Factor Authentication</a>
+    <a asp-page="/Index" class="btn btn-secondary">Back to Home</a>
+</p>

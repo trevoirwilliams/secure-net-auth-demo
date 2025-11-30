@@ -1,0 +1,50 @@
+# REST Client tests for SecureAuthDemo.Api
+# Requires VS Code REST Client extension or equivalent.
+
+@baseUrl = http://localhost:54798
+@httpsBaseUrl = https://localhost:54796
+@contentType = application/json
+
+### Health
+GET {{baseUrl}}/
+
+### Register (optional)
+# @name register
+POST {{baseUrl}}/api/auth/register
+Content-Type: {{contentType}}
+
+{
+  "email": "test.user@example.com",
+  "password": "Str0ngP@ss!"
+}
+
+### Login
+# @name login
+POST {{baseUrl}}/api/auth/login
+Content-Type: {{contentType}}
+
+{
+  "email": "admin@example.com",
+  "password": "Admin123!"
+}
+
+### Extract access token from login response
+@token = {{login.response.body.$.access_token}}
+
+### Get orders (protected)
+GET {{baseUrl}}/api/orders
+Authorization: Bearer {{token}}
+
+### Admin orders (requires Admin role)
+GET {{baseUrl}}/api/admin/orders
+Authorization: Bearer {{token}}
+
+### Insecure login (demo)
+# @name insecureLogin
+POST {{baseUrl}}/api/auth/insecure-login
+Content-Type: {{contentType}}
+
+{
+  "email": "demo@example.com",
+  "password": "P@ssw0rd"
+}

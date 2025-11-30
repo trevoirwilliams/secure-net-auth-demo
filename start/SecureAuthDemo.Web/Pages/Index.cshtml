@@ -1,0 +1,22 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4">SecureAuthDemo.Web</h1>
+    <p>ASP.NET Core Identity with TOTP Multi-Factor Authentication Demo</p>
+    
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        <p>Welcome, @User.Identity.Name!</p>
+        <p><a asp-area="Identity" asp-page="/Account/Manage/Index">Manage Account</a></p>
+        <p><a asp-area="Identity" asp-page="/Account/Manage/TwoFactorAuthentication">Enable Two-Factor Authentication</a></p>
+        <p><a asp-page="/Admin/SensitiveSettings">Access Sensitive Settings (requires MFA)</a></p>
+    }
+    else
+    {
+        <p><a asp-area="Identity" asp-page="/Account/Login">Log in</a> | <a asp-area="Identity" asp-page="/Account/Register">Register</a></p>
+    }
+</div>

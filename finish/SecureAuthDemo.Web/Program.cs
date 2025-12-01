@@ -36,14 +36,19 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 {
     // Relaxed password policy for teaching (keep consistent with API)
     options.Password.RequiredLength = 6;
-    options.Password.RequireDigit = false;
-    options.Password.RequireLowercase = false;
-    options.Password.RequireUppercase = false;
-    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireUppercase = true;
+    options.Password.RequireNonAlphanumeric = true;
 
-    // Sign-in configuration for MFA
-    options.SignIn.RequireConfirmedAccount = false; // For demo; set true for email confirmation
-    options.SignIn.RequireConfirmedEmail = false;   // Can be enabled for production
+    // Sign-in configuration for MFA and Account Confirmation
+    options.SignIn.RequireConfirmedAccount = true; // For demo; set true for email confirmation
+    options.SignIn.RequireConfirmedEmail = true;   // Can be enabled for production
+    
+    // Use to configure User Lockout
+    options.Lockout.AllowedForNewUsers = true;
+    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(2);
+    options.Lockout.MaxFailedAccessAttempts = 3;
 
     // Enable token providers for TOTP
     options.Tokens.AuthenticatorTokenProvider = TokenOptions.DefaultAuthenticatorProvider;
